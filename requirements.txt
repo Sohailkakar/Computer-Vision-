@@ -1,4 +1,4 @@
-Streamlit
-numpy
-opencv-python
+Streamlit as st
+numpy as np
+opencv-python as cv2
 
