@@ -1,4 +1,4 @@
-streamlit
+Streamlit
 numpy
 opencv-python
 PIL
