@@ -1,5 +1,1 @@
-Streamlit 
-numpy 
-opencv-python 
-
 
